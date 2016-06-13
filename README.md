@@ -1,5 +1,5 @@
 # bbs-markdown
-A markdown project for bbs.byr.cn
+A markdown project for bbs.byr.cn. But you can also use it in browsers.
 
 # Usage
 
