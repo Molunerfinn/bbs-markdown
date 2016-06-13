@@ -192,6 +192,10 @@
   padding-left: 30px
 }
 
+.markdown ol li{
+  list-style: inherit;
+}
+
 .markdown ul:first-child,
 .markdown ol:first-child {
   margin-top: 0
