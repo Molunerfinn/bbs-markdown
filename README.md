@@ -1,6 +1,6 @@
 # bbs-markdown
 A markdown project for bbs.byr.cn. But you can also use it in browsers.
-
+Based on [marked](https://github.com/chjj/marked) & [hightlightjs](https://highlightjs.org/) & jQuery
 # Usage
 
 ### Browser
